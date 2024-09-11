@@ -8305,11 +8305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dwalker\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
+      "projectUniqueName": "C:\\Users\\dwalker\\Documents\\csharp\\LeaveManagementSystem\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
       "projectName": "LeaveManagementSystem.Web",
-      "projectPath": "C:\\Users\\dwalker\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
+      "projectPath": "C:\\Users\\dwalker\\Documents\\csharp\\LeaveManagementSystem\\LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj",
       "packagesPath": "C:\\Users\\dwalker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dwalker\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\obj\\",
+      "outputPath": "C:\\Users\\dwalker\\Documents\\csharp\\LeaveManagementSystem\\LeaveManagementSystem.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
